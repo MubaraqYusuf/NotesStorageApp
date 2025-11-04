@@ -1,0 +1,21 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Notes App</string>
+
+    <!-- Buttons / Menu -->
+    <string name="menu_add">Add Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="btn_save">Save Note</string>
+    <string name="btn_delete">Delete Selected Note</string>
+
+    <!-- UI Labels -->
+    <string name="hint_title">Enter note title</string>
+    <string name="hint_content">Enter note content</string>
+    <string name="header_notes">Notes</string>
+
+    <!-- Toasts / Messages -->
+    <string name="error_empty_input">Please fill out both fields!</string>
+    <string name="note_saved">Note saved successfully!</string>
+    <string name="note_deleted">Note deleted successfully!</string>
+    <string name="note_not_found">Note not found.</string>
+</resources>
